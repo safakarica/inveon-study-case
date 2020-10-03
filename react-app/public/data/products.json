@@ -1,0 +1,116 @@
+{
+  "success": [
+    {
+      "id": 1,
+      "filters": [
+        "s",
+        "male",
+        "b",
+        "low"
+      ],
+      "sizeKey": "s",
+      "genderKey": "male",
+      "colorKey": "b",
+      "priceKey": "low",
+      "price": 20,
+      "name": "Gömlek",
+      "image": "/assets/img/blue.jpg"
+    },
+    {
+      "id": 2,
+      "filters": [
+        "m",
+        "female",
+        "r",
+        "medium"
+      ],
+      "sizeKey": "m",
+      "genderKey": "female",
+      "colorKey": "r",
+      "priceKey": "medium",
+      "price": 110,
+      "name": "Gömlek",
+      "image": "/assets/img/red.jpg"
+    },
+    {
+      "id": 3,
+      "filters": [
+        "xl",
+        "male",
+        "r",
+        "high"
+      ],
+      "sizeKey": "xl",
+      "genderKey": "male",
+      "colorKey": "r",
+      "priceKey": "high",
+      "price": 250,
+      "name": "Gömlek",
+      "image": "/assets/img/red.jpg"
+    },
+    {
+      "id": 4,
+      "filters": [
+        "s",
+        "female",
+        "r",
+        "low"
+      ],
+      "sizeKey": "s",
+      "genderKey": "female",
+      "colorKey": "r",
+      "priceKey": "low",
+      "price": 50,
+      "name": "Gömlek",
+      "image": "/assets/img/red.jpg"
+    },
+    {
+      "id": 5,
+      "filters": [
+        "m",
+        "male",
+        "b",
+        "medium"
+      ],
+      "sizeKey": "m",
+      "genderKey": "male",
+      "colorKey": "b",
+      "priceKey": "medium",
+      "price": 120,
+      "name": "T-Shirt",
+      "image": "/assets/img/blue.jpg"
+    },
+    {
+      "id": 6,
+      "filters": [
+        "l",
+        "female",
+        "r",
+        "high"
+      ],
+      "sizeKey": "l",
+      "genderKey": "female",
+      "colorKey": "r",
+      "priceKey": "high",
+      "price": 250,
+      "name": "Elbise",
+      "image": "/assets/img/red.jpg"
+    },
+    {
+      "id": 7,
+      "filters": [
+        "xl",
+        "male",
+        "b",
+        "high"
+      ],
+      "sizeKey": "xl",
+      "genderKey": "male",
+      "colorKey": "b",
+      "priceKey": "high",
+      "price": 450,
+      "name": "Jean",
+      "image": "/assets/img/blue.jpg"
+    }
+  ]
+}

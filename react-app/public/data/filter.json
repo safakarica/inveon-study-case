@@ -1,0 +1,56 @@
+{
+  "success": {
+    "category": [
+      {
+        "filterKey": "male",
+        "name": "Erkek"
+      },
+      {
+        "filterKey": "female",
+        "name": "Kadın"
+      }
+    ],
+    "size": [
+      {
+        "filterKey": "s",
+        "name": "S"
+      },
+      {
+        "filterKey": "m",
+        "name": "M"
+      },
+      {
+        "filterKey": "l",
+        "name": "L"
+      },
+      {
+        "filterKey": "xl",
+        "name": "XL"
+      }
+    ],
+    "color": [
+      {
+        "filterKey": "r",
+        "name": "Kırmızı"
+      },
+      {
+        "filterKey": "b",
+        "name": "Mavi"
+      }
+    ],
+    "price": [
+      {
+        "filterKey": "low",
+        "name": "0 - 100"
+      },
+      {
+        "filterKey": "medium",
+        "name": "100 - 200"
+      },
+      {
+        "filterKey": "high",
+        "name": "200 - 500"
+      }
+    ]
+  }
+}
